@@ -1,5 +1,5 @@
 <div align="center">
 
-![Atlanta banner](https://imgur.com/5I2zOAa.png)
+![Atlanta banner](https://imgur.com/ZJtg2SH.png)
 
 </div>

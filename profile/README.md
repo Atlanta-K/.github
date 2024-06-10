@@ -1,5 +1,1 @@
-<div align="center">
-
-[MIT](https://github.com/Atlanta-K/Atlanta-K.github.io/blob/main/LICENSE)
-
-</div>
+<div align="center"><a href="https://mit-license.org/license.txt"> MIT </a></div>
